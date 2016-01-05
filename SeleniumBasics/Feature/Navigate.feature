@@ -5,4 +5,4 @@
 
 Scenario: Open Wikipedia
 	Given I am on the wikipedia page
-	#Then I can see wikipedia log
+	Then I can see wikipedia log

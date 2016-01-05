@@ -11,7 +11,6 @@ namespace SeleniumBasics.Steps
         public void GivenIAmOnTheWikipediaPage()
         {
             Driver.Navigate().GoToUrl("https://en.wikipedia.org/wiki/Main_Page");
-            Driver.FindElement(By.Id("p-logo"));
         }
     }
 }
