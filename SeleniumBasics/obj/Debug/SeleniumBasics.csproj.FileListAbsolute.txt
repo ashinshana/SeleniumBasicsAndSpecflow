@@ -1,0 +1,13 @@
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\bin\Debug\SeleniumBasics.dll.config
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\bin\Debug\SeleniumBasics.dll
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\bin\Debug\SeleniumBasics.pdb
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\bin\Debug\nunit.framework.dll
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\bin\Debug\TechTalk.SpecFlow.dll
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\bin\Debug\nunit.framework.xml
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\obj\Debug\SeleniumBasics.dll
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\obj\Debug\SeleniumBasics.pdb
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\bin\Debug\WebDriver.dll
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\bin\Debug\WebDriver.Support.dll
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\bin\Debug\WebDriver.xml
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\bin\Debug\WebDriver.Support.xml
+C:\Ashi\Selenium\SeleniumBasics\SeleniumBasics\obj\Debug\SeleniumBasics.csprojResolveAssemblyReference.cache
